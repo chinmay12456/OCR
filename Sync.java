@@ -15,7 +15,7 @@ public sync(InputStream istrm, OutputStream ostrm) {
           {
               ostrm_.write(buffer, 0, length);
           }
-      }
+ }
       catch (Exception e)
       {
           e.printStackTrace();
