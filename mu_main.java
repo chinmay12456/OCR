@@ -8,7 +8,7 @@ public static void main(String[] args) {
  String[] command =
     {
         "cmd",
-    };
+ };
     Process p;
  try {
  p = Runtime.getRuntime().exec(command);
