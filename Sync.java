@@ -22,4 +22,5 @@ public sync(InputStream istrm, OutputStream ostrm) {
       }
   }
   private final OutputStream ostrm_;
-  private final InputStream istrm_;}
+  private final InputStream istrm_;
+  }
