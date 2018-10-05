@@ -13,10 +13,7 @@ import java.awt.*;
 import java.awt.image.BufferedImage;
 import java.io.*;
 import javax.imageio.ImageIO;
-import javax.swing.JFrame;
-
-
-
+import javax.swing.JFrame;//read it
 import org.opencv.core.*;
 import org.opencv.core.Point;
 import org.opencv.imgcodecs.Imgcodecs;
